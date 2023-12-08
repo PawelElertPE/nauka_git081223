@@ -84,3 +84,6 @@ for value in person.values():
 for key, value in person.items():
     print("Klucz:", key, "ma wartosc: ", value)
 
+
+print(type(cars))
+
